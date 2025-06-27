@@ -22,7 +22,7 @@ repository               : "sodaball/sodaball.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_xudh.png"
+  avatar           : "./images/profile_xudh.png"
   name             : "sodaball"
   pronouns         : # example: "she/her"  
   bio              : "A master's student in Computer Science."
