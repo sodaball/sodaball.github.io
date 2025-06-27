@@ -3,7 +3,7 @@ title: "Quadruple Attention in Many-body Systems for Accurate Molecular Property
 collection: publications
 category: conferences
 permalink: /publication/ICML2025-MABNet
-date: 2025-05
+date: 2025-07-17
 venue: 'ICML 2025'
 paperurl: '[ICML Poster](https://icml.cc/virtual/2025/poster/44950)'
 ---
