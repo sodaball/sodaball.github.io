@@ -12,4 +12,4 @@ I am currently a master's student in Computer Science at [Sun Yat-sen University
 
 I am fortunate to be advised by [Prof. Yang](http://biomed.nscc-gz.cn/sail/user:yueyang) of the [YangLab](http://biomed.nscc-gz.cn/sail/research) at Sun Yat-sen University.
 
-[Email](mailto:xudh6@sysu2.mail.edu.cn) / [GitHub](https://github.com/sodaball) / [WeChat](../images/wechat.jpg)
+[Email](mailto:xudh6@mail2.sysu.edu.cn) / [GitHub](https://github.com/sodaball) / [WeChat](../images/wechat.jpg)
