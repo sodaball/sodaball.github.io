@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/ICML2025-MABNet
 date: 2025-07-17
-venue: 'ICML 2025'
+venue: 'ICML'
 paperurl: '[ICML Poster](https://icml.cc/virtual/2025/poster/44950)'
 ---
 
