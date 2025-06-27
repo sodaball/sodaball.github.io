@@ -13,7 +13,7 @@ title                    : "sodaball / Personal Hoomepage"
 title_separator          : "-"
 name                     : &name "sodaball"
 description              : &description "A master's student in Computer Science."
-URL                      : "https://sodaball.github.io"
+URL                      : https://sodaball.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sodaball/sodaball.github.io"
 
@@ -22,7 +22,7 @@ repository               : "sodaball/sodaball.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/profile_xudh.png"
+  avatar           : "profile_xudh.png"
   name             : "sodaball"
   pronouns         : # example: "she/her"  
   bio              : "A master's student in Computer Science."
