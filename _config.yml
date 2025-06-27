@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "sodaball / About me"
+title                    : "sodaball / Personal Hoomepage"
 title_separator          : "-"
 name                     : &name "sodaball"
 description              : &description "A master's student in Computer Science."
