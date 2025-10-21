@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/ICML2025-MABNet
 excerpt: MABNet introduces a geometric attention framework that efficiently models four-body atomic interactions, overcoming limitations of traditional methods in capturing complex many-body effects, and achieves state-of-the-art performance on molecular property prediction benchmarks.
 date: 2025-07-17
-venue: 'International Conference on Machine Learning(ICML)'
+venue: 'International Conference on Machine Learning (ICML)'
 paperurl: 'http://sodaball.github.io/files/MABNet_Camera_Ready.pdf'
 bibtexurl: 'http://sodaball.github.io/files/bibtext_MABNet.bib'
 ---
